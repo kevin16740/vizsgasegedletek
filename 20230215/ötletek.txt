@@ -1,0 +1,18 @@
+- Kérjen be egy számot, és döntse el, hogy a szám eleme-e a Fibonacchi-sorozatnak (1-1-2-3-5...)!
+- Készítsen magyarországi mobilszám ellenőrző fv-t:
+	- Lehetséges mobil formátumok: "06 20 123-45 67", "+36 301234567", van más ??
+	- "körzetszámok": 20 30 70 50 31 ?
+- Készítsen függvényt, ami elvégzi a paraméterben kapott egyszerű matematikai műveletet (+ - / *)
+    - pl.: "3 * 4" vagy "3*4" => 12
+- Készítsen fv-t ami kamatos kamatot számol
+	- paraméterek: összeg, hónapok száma, éves kamat
+- Készítse el az "Excel-es" HA függvényt.
+    - paraméterek: feltétel, érték ha igaz, érték ha hamis
+- Készítsen függvényt, aminek segítségével el lehet dönteni, hogy érdemes-e egy boltot működtetni
+	- paraméterek
+		- havi fix rezsi ktg
+		- havi bér ktg
+		- havi várható forgalom
+		- termékek átlagos haszon %-a
+	- visszatérési érték: mennyi pénz "marad" a végén
+	

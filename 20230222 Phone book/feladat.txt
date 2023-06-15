@@ -1,0 +1,12 @@
+1. Olvassa be és tárolja el a phone_book.txt állományban lévő adatokat
+2. Írja ki hány dolgozó szerepel a telefonkönyvben
+3. Írja ki, hogy van-e magyar e-mail címmel rendelkező dolgozó a telefonkönyvben (.hu)
+4. Kérje be egy dolgozó nevét
+	- ha nem találja írja ki, hogy "ilyen nevű dolgozó nincs a telefonkönyvben"
+	- ha megtalálta, írja ki az e-mail címét és telefonszámát, valamint hogy melyik osztályon dolgozik
+5. Kérjen be egy telefon körzetszámot (pl.: +36)
+	- ha nincs ilyen körzetszámú telefonszám, írja ki, hogy "ilyen körzetszám nincs a telefonkönyvben"
+	- az adott körzethez tartozó dolgozók nevét és beosztását írja ki a képernyőre
+6. Készítsen statisztikát, hogy az egyes osztályokon mennyien dolgoznak
+	+1 -> csak azokat az osztályokat jelenítse meg, ahol legalább 3 dolgozó van.
+7. készítsen fájlt managers.txt néven, ahova pontosvesszővel elválasztva kiírja azoknak a dolgozóknak a nevét és e-mail címét, akiknek a beosztásában szerepel a "manager" szó

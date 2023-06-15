@@ -1,0 +1,7 @@
+- Olvasson be egy dátumot és függvény(ek) segítségével döntse el, hogy a dátum helyes-e
+- Olvasson be egy szót, és írja ki a betűit egy sorba, egymástól szóközzel elválasztva.
+- Olvasson be egy mondatot, és írja ki a szavait egymás alá úgy, hogy a szavak első betűje nagybetűs legyen
+- Kérjen be egy egész számot, és keresse meg a nála kissebb legnagyobb prímszámot
+- Jelszó generátor: kérje be a felhasználótól, hogy a jelszónak hány számot, speciális karaktert valamint kis- illetve nagybetűt kell tartalmaznia
+- Készítsen HASH-t a fenti jelszóhoz (valami képletet közösen ki kellene találni...)
+- Kérjen be egy számot, és döntse el, hogy a szám eleme-e a Fibonacchi-sorozatnak (1-1-2-3-5...)!
